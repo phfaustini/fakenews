@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.05,0.0,0.0,0.0,16.5,0.13,0.08,0.24,0.0,28,-0.5,2.0,225.0,0.2970326542854309,"Exército entrega medalha de condecoração ao juiz Sérgio Moro. A Ordem do Mérito Militar, mais importante condecoração do Exército, foi entregue em cerimônia a cerca de 100 homenageados.. O Exército brasileiro entregou nesta  ",1.0

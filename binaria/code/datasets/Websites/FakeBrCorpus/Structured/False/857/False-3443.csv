@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.07,0.0,0.0,0.0,14.25,0.12,0.05,0.23,0.1,45,-1.0,4.0,328.0,0.8777188062667847,"Jornal inglês apavora o mundo e diz que o APOCALIPSE poderá acontecer em breve. .  Com o título ""C ristãos prevêem que o mundo vai terminar neste fim de semana"" , o texto mistura política com religião e diz que o presidente eleito Donald Trump será responsável por uma desgraça mundial. abaixo o texto do The Sun : leia também: ",0.0

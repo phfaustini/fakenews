@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.03,0.0,0.0,0.0,12.67,0.02,0.02,0.26,0.0,32,-0.5555555555555556,3.0,240.0,0.6170583963394165,"Ex-marido de Dilma: ""A gente assaltava bancos e roubava quartéis para pegar armas. Era muito romântico"".  Segundo Araújo,  o grupo praticou assaltos a banco,  roubos de caminhões de carne,  além de ""ações em quarteis"" para ""pegar armas""..  ",0.0

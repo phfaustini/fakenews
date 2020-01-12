@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.11,0.0,0.0,0.0,23.5,0.17,0.02,0.14,0.0,35,0.3333333333333333,2.0,276.0,0.23727482557296753,"Renan diz que Cunha ainda exerce alguma influência no governo. Líder do PMDB no Senado voltou a criticar influência que, segundo ele, ex-deputado preso exerce sobre o Palácio do Planalto.. O líder do PMDB no Senado e ex-presidente da Casa, senador Renan Calheiros (PMDB-AL),  ",1.0

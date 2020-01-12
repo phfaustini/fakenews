@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.12,0.0,0.0,0.0,14.33,0.12,0.06,0.18,0.02,39,-1.0,3.0,278.0,0.4340263307094574,"Reinaldo Azevedo, futuro ministro do STF.  Um dos militares mais coerentes e corajosos desses últimos tempos mandou um recado (irônico) para Temer.  Através das redes sociais, o General de Brigada Paulo Chagas compartilhou um texto de um colega de profissão: GEN AUGUSTO HELENO ",0.0

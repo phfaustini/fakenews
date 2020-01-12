@@ -1,0 +1,792 @@
+##############
+##############
+DATASET btv-lifestyle
+
+**************
+NBPC
+**************
+Custom features: 
+Accuracy  = 50% ±1%
+Precision = 50% ±1%
+Recall    = 100% ±0%
+FScore    = 67% ±1%
+
+Word2Vec: 
+Accuracy  = 51% ±2%
+Precision = 50% ±1%
+Recall    = 99% ±3%
+FScore    = 67% ±2%
+
+BOW: 
+Accuracy  = 50% ±3%
+Precision = 50% ±2%
+Recall    = 97% ±4%
+FScore    = 66% ±2%
+
+**************
+DCDistanceOCC
+**************
+Custom features: 
+Accuracy  = 78% ±6%
+Precision = 76% ±5%
+Recall    = 83% ±21%
+FScore    = 77% ±11%
+t: 0.41
+
+Word2Vec: 
+Accuracy  = 64% ±9%
+Precision = 64% ±17%
+Recall    = 93% ±15%
+FScore    = 73% ±3%
+t: 0.51
+
+BOW: 
+Accuracy  = 53% ±3%
+Precision = 52% ±2%
+Recall    = 99% ±3%
+FScore    = 68% ±2%
+t: 0.61
+
+**************
+ECOOCC
+**************
+Custom features: 
+Accuracy  = 60% ±7%
+Precision = 59% ±10%
+Recall    = 89% ±20%
+FScore    = 68% ±5%
+
+Word2Vec: 
+Accuracy  = 61% ±14%
+Precision = 60% ±14%
+Recall    = 97% ±6%
+FScore    = 73% ±8%
+
+BOW: 
+Accuracy  = 51% ±3%
+Precision = 51% ±2%
+Recall    = 97% ±4%
+FScore    = 67% ±2%
+
+**************
+OneClassSVM
+**************
+Custom features: 
+Accuracy  = 79% ±8%
+Precision = 87% ±6%
+Recall    = 70% ±18%
+FScore    = 76% ±13%
+Kernel: 2
+Degree: 3
+Nu: 0.210000
+
+Word2Vec: 
+Accuracy  = 74% ±7%
+Precision = 97% ±6%
+Recall    = 49% ±14%
+FScore    = 64% ±14%
+Kernel: 2
+Degree: 3
+Nu: 0.010000
+
+BOW: 
+Accuracy  = 48% ±6%
+Precision = 49% ±3%
+Recall    = 90% ±10%
+FScore    = 64% ±5%
+Kernel: 2
+Degree: 3
+Nu: 0.960000
+
+**************
+EIF
+**************
+Custom features: 
+Accuracy  = 78% ±7%
+Precision = 76% ±5%
+Recall    = 83% ±13%
+FScore    = 79% ±8%
+Average depth: 5
+n_trees: 256
+sample_size: 30
+extension level: 6
+
+Word2Vec: 
+Accuracy  = 83% ±7%
+Precision = 84% ±10%
+Recall    = 85% ±10%
+FScore    = 84% ±7%
+Average depth: 5
+n_trees: 128
+sample_size: 30
+extension level: 0
+
+BOW: 
+Accuracy  = 51% ±3%
+Precision = 51% ±2%
+Recall    = 96% ±4%
+FScore    = 66% ±2%
+Average depth: 5
+n_trees: 128
+sample_size: 30
+extension level: 6
+##############
+##############
+DATASET whats_br
+
+**************
+NBPC
+**************
+Custom features: 
+Accuracy  = 52% ±3%
+Precision = 53% ±2%
+Recall    = 98% ±5%
+FScore    = 69% ±2%
+
+Word2Vec: 
+Accuracy  = 53% ±1%
+Precision = 53% ±1%
+Recall    = 100% ±0%
+FScore    = 70% ±1%
+
+BOW: 
+Accuracy  = 51% ±3%
+Precision = 52% ±1%
+Recall    = 96% ±5%
+FScore    = 68% ±2%
+
+**************
+DCDistanceOCC
+**************
+Custom features: 
+Accuracy  = 52% ±3%
+Precision = 53% ±2%
+Recall    = 98% ±5%
+FScore    = 69% ±2%
+t: 0.96
+
+Word2Vec: 
+Accuracy  = 53% ±1%
+Precision = 53% ±1%
+Recall    = 99% ±2%
+FScore    = 69% ±1%
+t: 0.96
+
+BOW: 
+Accuracy  = 53% ±4%
+Precision = 53% ±2%
+Recall    = 97% ±5%
+FScore    = 69% ±3%
+t: 0.96
+
+**************
+ECOOCC
+**************
+Custom features: 
+Accuracy  = 53% ±2%
+Precision = 53% ±1%
+Recall    = 99% ±3%
+FScore    = 69% ±2%
+
+Word2Vec: 
+Accuracy  = 53% ±1%
+Precision = 53% ±1%
+Recall    = 99% ±2%
+FScore    = 69% ±1%
+
+BOW: 
+Accuracy  = 52% ±4%
+Precision = 53% ±2%
+Recall    = 96% ±5%
+FScore    = 68% ±3%
+
+**************
+OneClassSVM
+**************
+Custom features: 
+Accuracy  = 54% ±6%
+Precision = 54% ±3%
+Recall    = 95% ±6%
+FScore    = 69% ±4%
+Kernel: 3
+Degree: 3
+Nu: 0.060000
+
+Word2Vec: 
+Accuracy  = 54% ±5%
+Precision = 54% ±3%
+Recall    = 89% ±7%
+FScore    = 68% ±4%
+Kernel: 3
+Degree: 3
+Nu: 0.060000
+
+BOW: 
+Accuracy  = 51% ±4%
+Precision = 53% ±2%
+Recall    = 92% ±6%
+FScore    = 67% ±2%
+Kernel: 1
+Degree: 3
+Nu: 0.010000
+
+**************
+EIF
+**************
+Custom features: 
+Accuracy  = 43% ±7%
+Precision = 48% ±4%
+Recall    = 81% ±13%
+FScore    = 60% ±7%
+Average depth: 5
+n_trees: 256
+sample_size: 30
+extension level: 13
+
+Word2Vec: 
+Accuracy  = 42% ±8%
+Precision = 47% ±6%
+Recall    = 79% ±15%
+FScore    = 59% ±9%
+Average depth: 5
+n_trees: 128
+sample_size: 30
+extension level: 13
+
+BOW: 
+Accuracy  = 47% ±1%
+Precision = 0% ±0%
+Recall    = 0% ±0%
+FScore    = 0% ±0%
+Average depth: 5
+n_trees: 256
+sample_size: 30
+extension level: 13
+##############
+##############
+DATASET fakenewsdata1
+
+**************
+NBPC
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+Word2Vec: 
+Accuracy  = 51% ±3%
+Precision = 50% ±2%
+Recall    = 99% ±3%
+FScore    = 67% ±2%
+
+BOW: 
+Accuracy  = 47% ±5%
+Precision = 48% ±3%
+Recall    = 92% ±10%
+FScore    = 63% ±5%
+
+**************
+DCDistanceOCC
+**************
+Custom features: 
+Accuracy  = 50% ±2%
+Precision = 50% ±1%
+Recall    = 97% ±5%
+FScore    = 66% ±2%
+t: 0.86
+
+Word2Vec: 
+Accuracy  = 60% ±6%
+Precision = 56% ±4%
+Recall    = 88% ±9%
+FScore    = 69% ±5%
+t: 0.41
+
+BOW: 
+Accuracy  = 54% ±4%
+Precision = 64% ±37%
+Recall    = 12% ±9%
+FScore    = 20% ±14%
+t: 0.71
+
+**************
+ECOOCC
+**************
+Custom features: 
+Accuracy  = 50% ±2%
+Precision = 50% ±1%
+Recall    = 97% ±5%
+FScore    = 66% ±2%
+
+Word2Vec: 
+Accuracy  = 53% ±4%
+Precision = 52% ±3%
+Recall    = 96% ±5%
+FScore    = 67% ±2%
+
+BOW: 
+Accuracy  = 47% ±5%
+Precision = 48% ±3%
+Recall    = 92% ±10%
+FScore    = 63% ±5%
+
+**************
+OneClassSVM
+**************
+Custom features: 
+Accuracy  = 50% ±2%
+Precision = 50% ±1%
+Recall    = 97% ±3%
+FScore    = 66% ±2%
+Kernel: 3
+Degree: 3
+Nu: 0.010000
+
+Word2Vec: 
+Accuracy  = 54% ±7%
+Precision = 53% ±5%
+Recall    = 84% ±3%
+FScore    = 65% ±4%
+Kernel: 3
+Degree: 3
+Nu: 0.160000
+
+BOW: 
+Accuracy  = 47% ±5%
+Precision = 48% ±3%
+Recall    = 92% ±10%
+FScore    = 63% ±5%
+Kernel: 3
+Degree: 3
+Nu: 0.460000
+
+**************
+EIF
+**************
+Custom features: 
+Accuracy  = 51% ±9%
+Precision = 50% ±7%
+Recall    = 79% ±17%
+FScore    = 61% ±10%
+Average depth: 5
+n_trees: 256
+sample_size: 30
+extension level: 6
+
+Word2Vec: 
+Accuracy  = 64% ±8%
+Precision = 60% ±6%
+Recall    = 83% ±14%
+FScore    = 69% ±8%
+Average depth: 5
+n_trees: 128
+sample_size: 30
+extension level: 13
+
+BOW: 
+Accuracy  = 47% ±4%
+Precision = 48% ±3%
+Recall    = 91% ±9%
+FScore    = 63% ±4%
+Average depth: 5
+n_trees: 128
+sample_size: 30
+extension level: 6
+##############
+##############
+DATASET Bhattacharjee
+
+**************
+NBPC
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+**************
+DCDistanceOCC
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+t: 0.96
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+t: 0.81
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 80% ±25%
+Recall    = 40% ±50%
+FScore    = 27% ±33%
+t: 0.96
+
+**************
+ECOOCC
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+**************
+OneClassSVM
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 99% ±0%
+FScore    = 67% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.010000
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 98% ±0%
+FScore    = 66% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.010000
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±32%
+Recall    = 60% ±50%
+FScore    = 40% ±33%
+Kernel: 3
+Degree: 3
+Nu: 0.060000
+
+**************
+EIF
+**************
+Custom features: 
+Accuracy  = 48% ±0%
+Precision = 49% ±0%
+Recall    = 95% ±0%
+FScore    = 65% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13
+
+Word2Vec: 
+Accuracy  = 51% ±1%
+Precision = 51% ±0%
+Recall    = 91% ±0%
+FScore    = 65% ±0%
+Average depth: 8
+n_trees: 128
+sample_size: 200
+extension level: 13
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 0% ±0%
+Recall    = 0% ±0%
+FScore    = 0% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13
+##############
+##############
+DATASET FakeBrCorpus
+
+**************
+NBPC
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+**************
+DCDistanceOCC
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+t: 0.96
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+t: 0.96
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 56% ±18%
+Recall    = 60% ±50%
+FScore    = 40% ±33%
+t: 0.96
+
+**************
+ECOOCC
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+**************
+OneClassSVM
+**************
+Custom features: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 99% ±1%
+FScore    = 66% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.010000
+
+Word2Vec: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 98% ±1%
+FScore    = 66% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.010000
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.960000
+
+**************
+EIF
+**************
+Custom features: 
+Accuracy  = 48% ±0%
+Precision = 49% ±0%
+Recall    = 91% ±1%
+FScore    = 64% ±0%
+Average depth: 8
+n_trees: 128
+sample_size: 200
+extension level: 13
+
+Word2Vec: 
+Accuracy  = 51% ±1%
+Precision = 50% ±0%
+Recall    = 92% ±1%
+FScore    = 65% ±1%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 0% ±0%
+Recall    = 0% ±0%
+FScore    = 0% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13
+##############
+##############
+DATASET tweets_br
+
+**************
+NBPC
+**************
+Custom features: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+
+Word2Vec: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+
+BOW: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+
+**************
+DCDistanceOCC
+**************
+Custom features: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+t: 0.91
+
+Word2Vec: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+t: 0.86
+
+BOW: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+t: 0.76
+
+**************
+ECOOCC
+**************
+Custom features: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 99% ±0%
+FScore    = 66% ±0%
+
+Word2Vec: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+
+BOW: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+
+**************
+OneClassSVM
+**************
+Custom features: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 99% ±0%
+FScore    = 65% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.010000
+
+Word2Vec: 
+Accuracy  = 52% ±1%
+Precision = 51% ±0%
+Recall    = 95% ±1%
+FScore    = 66% ±0%
+Kernel: 2
+Degree: 3
+Nu: 0.010000
+
+BOW: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.710000
+
+**************
+EIF
+**************
+Custom features: 
+Accuracy  = 47% ±0%
+Precision = 48% ±0%
+Recall    = 90% ±2%
+FScore    = 62% ±1%
+Average depth: 8
+n_trees: 128
+sample_size: 200
+extension level: 13
+
+Word2Vec: 
+Accuracy  = 49% ±1%
+Precision = 48% ±0%
+Recall    = 85% ±1%
+FScore    = 62% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13
+
+BOW: 
+Accuracy  = 51% ±0%
+Precision = 0% ±0%
+Recall    = 0% ±0%
+FScore    = 0% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13

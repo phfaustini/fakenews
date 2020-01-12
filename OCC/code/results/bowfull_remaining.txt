@@ -1,0 +1,96 @@
+##############
+##############
+DATASET FakeBrCorpus
+
+**************
+NBPC
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+**************
+DCDistanceOCC
+**************
+BOW: 
+Accuracy  = 51% ±1%
+Precision = 51% ±1%
+Recall    = 75% ±12%
+FScore    = 60% ±4%
+t: 0.96
+
+**************
+
+**************
+OneClassSVM
+**************
+**************
+EIF
+**************Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 92% ±1%
+FScore    = 65% ±0%
+Average depth: 8
+n_trees: 128
+sample_size: 200
+extension level: 13
+
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13
+##############
+##############
+DATASET tweets_br
+
+**************
+NBPC
+**************
+BOW: 
+Accuracy  = 49% ±0%
+Precision = 49% ±0%
+Recall    = 100% ±0%
+FScore    = 66% ±0%
+
+**************
+DCDistanceOCC
+**************
+BOW: 
+Accuracy  = 51% ±5%
+Precision = 51% ±4%
+Recall    = 96% ±6%
+FScore    = 66% ±1%
+t: 0.96
+
+**************
+
+**************
+OneClassSVM
+**************
+**************
+EIF
+**************Accuracy  = 48% ±1%
+Precision = 48% ±0%
+Recall    = 85% ±2%
+FScore    = 61% ±1%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 0
+
+BOW: 
+Accuracy  = 51% ±0%
+Precision = 0% ±0%
+Recall    = 0% ±0%
+FScore    = 0% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13

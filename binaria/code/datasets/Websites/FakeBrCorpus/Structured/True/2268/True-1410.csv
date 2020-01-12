@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.03,0.0,0.0,0.0,17.0,0.03,0.08,0.29,0.04,37,-0.75,3.0,334.0,0.549483060836792,"Agenda Cultural: G1 lista opções de lazer durante o final de semana em Salvador. Há opções de shows, teatro, exposições, programação infantil e mais.. Diversos eventos culturais estão programados para ocorrer neste fim de semana em Salvador e região metropolitana. O G1 listou opções de música, teatro, exposições e outros, marcados  ",1.0

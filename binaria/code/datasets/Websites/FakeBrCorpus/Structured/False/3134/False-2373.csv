@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.07,0.0,0.0,0.0,23.5,0.06,0.07,0.17,0.04,39,-0.6666666666666666,2.0,288.0,0.2393321543931961,"Sítio de Atibaia: PF investiga se Lula ""pegou"" objetos que pertencem ao Palácio do Planalto.  Os mandados de busca e apreensão da PF visam também vasculhar containers num depósito em São Bernardo do Campo,  pagos pela OAS,  que guardam uma grande quantidade de objetos pessoais de Lula.  ",0.0

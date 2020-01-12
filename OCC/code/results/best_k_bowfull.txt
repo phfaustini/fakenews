@@ -1,0 +1,39 @@
+F: features
+F: Word2Vec
+F: BOW
+3
+2
+3
+2
+4
+F: features
+F: Word2Vec
+F: BOW
+3
+2
+2
+10
+2
+3
+3
+4
+2
+2
+2
+3
+F: features
+F: Word2Vec
+F: BOW
+2
+3
+3
+2
+2
+F: features
+F: Word2Vec
+F: BOW
+2
+2
+2
+15
+3

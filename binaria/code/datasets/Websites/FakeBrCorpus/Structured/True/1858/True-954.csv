@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.06,0.0,0.0,0.0,11.0,0.0,0.0,0.19,0.22,19,-0.75,2.0,151.0,-0.08656434714794159,"Fachin rejeita queixa-crime de Onyx Lorenzoni contra Renan Calheiros. Senador chamou Lorenzoni de Lorenzetti, em referência a uma marca de chuveiros,  ",1.0

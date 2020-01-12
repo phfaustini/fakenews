@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.07,0.0,0.0,0.0,15.0,0.08,0.05,0.22,0.19,26,-0.6666666666666666,2.0,164.0,0.8158928155899048,"O misterioso assassinato de Kim Jong-nam, meio-irmão e rival do líder da Coreia do Norte, Kim Jong-un. Ele foi morto na Malásia na segunda-feira enquanto esperava  ",1.0

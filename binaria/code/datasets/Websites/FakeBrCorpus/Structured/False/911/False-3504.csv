@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.03,0.0,1.0,0.0,21.5,0.05,0.09,0.21,0.0,41,0.0,2.0,259.0,0.6844866275787354,"Em vídeo,Lula confessa: ""A gente fala uma coisa pra ganhar as eleições,mas depois faz outra"".  Assista com atenção esse pequeno vídeo..  É claro que esse tipo de atitude não se restringe somente ao petista ... 90% dos políticos agem dessa maneira vergonhosa! ",0.0

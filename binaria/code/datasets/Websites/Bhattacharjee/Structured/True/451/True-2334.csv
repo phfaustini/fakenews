@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.02,0.0,0.0,0.0,24.5,0.06,0.0,0.31,0.0,40,1.0,2.0,318.0,0.6588033437728882,"A group of senators is calling for higher wages and better health care for the contractors who work in Senate office buildings.    Private companies receive contracts to provide many of the services for government buildings on Capitol Hill, from running the cafeterias to cleaning offices to restoring aging buildings.",1.0

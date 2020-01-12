@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.04,0.0,0.0,0.0,8.0,0.0,0.06,0.28,0.06,15,-1.0,2.0,95.0,0.04364737495779991,Veja a lista dos 13 senadores que votaram contra a manutenção da prisão de Delcídio Amaral. .  ,0.0

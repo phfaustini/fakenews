@@ -1,0 +1,215 @@
+TESTING WITH LTO
+
+
+FEATURES + GAUSSIANNB
+ignore              None
+accuracy_mean     78.041
+fscore_mean      59.3042
+accuracy_std     18.8382
+fscore_std       34.1456
+Name: 0, dtype: object
+------------------------------------------------------
+FEATURES + KNN
+clf__n_neighbors          3
+accuracy_mean       68.8922
+fscore_mean         43.3629
+accuracy_std        13.5164
+fscore_std          26.3576
+Name: 1, dtype: object
+------------------------------------------------------
+FEATURES + SVC
+clf__kernel         poly
+accuracy_mean    72.6254
+fscore_mean      47.3717
+accuracy_std     17.2524
+fscore_std       28.8924
+Name: 0, dtype: object
+------------------------------------------------------
+FEATURES + RF
+clf__n_estimators        201
+accuracy_mean        70.5245
+fscore_mean          44.4202
+accuracy_std         14.8181
+fscore_std            27.538
+Name: 4, dtype: object
+------------------------------------------------------
+WORD2VEC + GAUSSIANNB
+ignore              None
+accuracy_mean    71.5837
+fscore_mean      51.0238
+accuracy_std     16.0984
+fscore_std       30.1464
+Name: 0, dtype: object
+------------------------------------------------------
+WORD2VEC + KNN
+clf__n_neighbors          7
+accuracy_mean       77.2257
+fscore_mean          55.298
+accuracy_std        16.5104
+fscore_std          30.7046
+Name: 3, dtype: object
+------------------------------------------------------
+WORD2VEC + SVC
+clf__kernel         poly
+accuracy_mean    83.6921
+fscore_mean       76.083
+accuracy_std     21.2749
+fscore_std       29.1286
+Name: 0, dtype: object
+------------------------------------------------------
+WORD2VEC + RF
+clf__n_estimators        951
+accuracy_mean        81.6238
+fscore_mean          68.4443
+accuracy_std         16.6715
+fscore_std           30.4414
+Name: 19, dtype: object
+------------------------------------------------------
+DCDISTANCE + GAUSSIANNB
+ignore              None
+accuracy_mean    61.2693
+fscore_mean      48.1356
+accuracy_std       18.25
+fscore_std       29.7753
+Name: 0, dtype: object
+------------------------------------------------------
+DCDISTANCE + KNN
+clf__n_neighbors          1
+accuracy_mean       48.2254
+fscore_mean         43.0458
+accuracy_std        20.0822
+fscore_std          26.3437
+Name: 0, dtype: object
+------------------------------------------------------
+DCDISTANCE + SVC
+clf__kernel         poly
+accuracy_mean    45.0961
+fscore_mean      48.2419
+accuracy_std     27.5822
+fscore_std       29.4313
+Name: 0, dtype: object
+------------------------------------------------------
+DCDISTANCE + RF
+clf__n_estimators          1
+accuracy_mean        49.4003
+fscore_mean          45.5033
+accuracy_std         22.9253
+fscore_std            27.826
+Name: 0, dtype: object
+------------------------------------------------------
+BOW + MultinomialNB
+ignore              None
+accuracy_mean    70.5457
+fscore_mean      53.7119
+accuracy_std     18.6472
+fscore_std       29.7735
+Name: 0, dtype: object
+------------------------------------------------------
+BOW + KNN
+clf__n_neighbors          5
+accuracy_mean       75.9086
+fscore_mean         59.4655
+accuracy_std        18.8486
+fscore_std          28.8108
+Name: 2, dtype: object
+------------------------------------------------------
+BOW + SVC
+clf__kernel         poly
+accuracy_mean    63.8668
+fscore_mean            0
+accuracy_std     17.0275
+fscore_std             0
+Name: 0, dtype: object
+------------------------------------------------------
+BOW + RF
+clf__n_estimators          1
+accuracy_mean        55.4136
+fscore_mean          47.8618
+accuracy_std         23.3166
+fscore_std           28.3842
+Name: 0, dtype: object
+------------------------------------------------------
+##############################################################
+##############################################################
+##############################################################
+
+FEATURES + GAUSSIANNB
+Fscore (fake) = 49.35% ± 17.75%
+Accuracy =      60.18% ± 11.67%
+Best params:    {}
+------------------------------------------------------
+FEATURES + KNN
+Fscore (fake) = 63.21% ± 14.41%
+Accuracy =      68.60% ± 8.90%
+Best params:    {}
+------------------------------------------------------
+FEATURES + SVC
+Fscore (fake) = 60.31% ± 14.23%
+Accuracy =      66.35% ± 8.52%
+Best params:    {}
+------------------------------------------------------
+FEATURES + RF
+Fscore (fake) = 61.76% ± 17.71%
+Accuracy =      69.74% ± 9.41%
+Best params:    {}
+------------------------------------------------------
+WORD2VEC + GAUSSIANNB
+Fscore (fake) = 44.52% ± 21.33%
+Accuracy =      58.09% ± 12.36%
+Best params:    {}
+------------------------------------------------------
+WORD2VEC + KNN
+Fscore (fake) = 67.20% ± 19.45%
+Accuracy =      74.31% ± 11.16%
+Best params:    {}
+------------------------------------------------------
+WORD2VEC + SVC
+Fscore (fake) = 68.78% ± 16.87%
+Accuracy =      75.37% ± 10.30%
+Best params:    {}
+------------------------------------------------------
+WORD2VEC + RF
+Fscore (fake) = 71.00% ± 16.46%
+Accuracy =      76.56% ± 9.45%
+Best params:    {}
+------------------------------------------------------
+DCDISTANCE + GAUSSIANNB
+Fscore (fake) = 71.21% ± 19.84%
+Accuracy =      76.29% ± 12.17%
+Best params:    {}
+------------------------------------------------------
+DCDISTANCE + KNN
+Fscore (fake) = 78.96% ± 12.26%
+Accuracy =      81.37% ± 9.20%
+Best params:    {}
+------------------------------------------------------
+DCDISTANCE + SVC
+Fscore (fake) = 79.16% ± 10.62%
+Accuracy =      80.39% ± 7.99%
+Best params:    {}
+------------------------------------------------------
+DCDISTANCE + RF
+Fscore (fake) = 76.68% ± 12.71%
+Accuracy =      79.57% ± 9.49%
+Best params:    {}
+------------------------------------------------------
+BOW + MultinomialNB
+Fscore (fake) = 73.11% ± 19.38%
+Accuracy =      79.60% ± 10.68%
+Best params:    {}
+------------------------------------------------------
+BOW + KNN
+Fscore (fake) = 76.70% ± 10.10%
+Accuracy =      79.48% ± 9.02%
+Best params:    {}
+------------------------------------------------------
+BOW + SVC
+Fscore (fake) = 0.00% ± 0.00%
+Accuracy =      51.10% ± 0.01%
+Best params:    {}
+------------------------------------------------------
+BOW + RF
+Fscore (fake) = 64.46% ± 19.22%
+Accuracy =      67.45% ± 10.89%
+Best params:    {}
+------------------------------------------------------

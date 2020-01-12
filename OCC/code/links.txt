@@ -1,0 +1,3 @@
+https://altons.github.io/machine%20learning/2013/06/17/libsvm-101/
+http://eric-yuan.me/k-means/
+http://eric-yuan.me/softmax/

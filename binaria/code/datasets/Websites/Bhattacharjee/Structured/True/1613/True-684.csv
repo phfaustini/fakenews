@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.04,0.0,0.0,0.0,54.0,0.1,0.02,0.17,0.02,44,0.0,1.0,329.0,0.7744814157485962,"Bringing a new approach to a long-running Capitol Hill standoff, a Turkish-American coalition is pushing a new bill in Congress that will call for reconciliation and dialogue between Turkey and Armenia while sidestepping the question of whether the 1915 mass killings of Armenians at the hands of the Ottoman Empire was genocide.",1.0

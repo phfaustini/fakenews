@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.06,0.0,0.0,0.0,9.67,0.05,0.0,0.19,0.13,17,-0.3333333333333333,3.0,177.0,0.3448569178581238,"Saiu a resposta oficial de Dilma para a carta de Temer: "" Pimentorium in anus outrem refrescus "". .  Vazou a carta da Dilma para o Temer: ""Pimentorium in anus outrem refrescus"" ",0.0

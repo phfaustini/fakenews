@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.04,0.0,0.0,0.0,8.8,0.04,0.1,0.28,0.04,39,-0.5,5.0,246.0,0.3496861755847931,"Menina de 16 anos que motivou campanha na web passa por cirurgia e volta ao coma. Leslye Coelho mora em Boituva e está internada há mais de 15 dias. Família faz campanha para pagar despesas, que já ultrapassam R$ 100 mil. . A adolescente Leslye  ",1.0

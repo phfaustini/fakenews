@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.02,0.0,0.0,0.0,10.67,0.05,0.03,0.2,0.0,29,-0.3333333333333333,3.0,206.0,0.3164527416229248,"Autor do impeachment: ""Dilma precisou de 30 juristas pra responder por ela. Isso tudo é firula"".  Um dos autores do pedido de impeachment considerou reunião entre a presidente e especialistas um ""elogio"".  ",0.0

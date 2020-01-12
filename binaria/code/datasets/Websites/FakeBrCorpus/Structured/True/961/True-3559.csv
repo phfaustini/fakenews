@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.03,0.0,0.0,0.0,11.67,0.08,0.05,0.23,0.0,28,-1.0,3.0,208.0,0.28468719124794006,"Difícil de acreditar, diz morador que teve casa atingida por avião em Rio Preto. Aposentado ia cuidar da criação de pássaros quando avião caiu no quintal da casa. Três pessoas que estavam no avião morreram.  ",1.0

@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.02,0.0,0.0,0.0,10.0,0.09,0.09,0.18,0.0,10,-1.0,1.0,61.0,0.16282257437705994,"Homem é contratado para matar mulher, se arrepende do crime  ",1.0

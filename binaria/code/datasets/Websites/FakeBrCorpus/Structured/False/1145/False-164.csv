@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.05,0.0,0.0,0.0,14.0,0.06,0.06,0.18,0.03,19,-1.0,2.0,174.0,0.25675755739212036,"Coreia do Norte dispara diversos mísseis simultaneamente.  A Coreia do Norte disparou diversos mísseis na noite de hoje, horario de Brasília (manhã do dia 08/06 na Coreia).  ",0.0

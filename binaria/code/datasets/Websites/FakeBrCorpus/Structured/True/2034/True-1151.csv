@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.1,0.0,0.0,0.0,5.5,0.0,0.0,0.31,0.0,10,-0.5,2.0,73.0,-0.026651473715901375,STF nega pedido de liberdade de ex-deputado Eduardo Cunha. Peemedebista  ,1.0

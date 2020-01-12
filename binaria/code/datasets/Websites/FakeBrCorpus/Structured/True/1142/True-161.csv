@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.04,0.0,0.0,0.0,9.0,0.0,0.0,0.26,0.05,15,-1.0,2.0,119.0,0.11785223335027695,Marun diz que se licenciará de ministério para apresentar pedido de impeachment de Barroso. Ministro da Secretaria de  ,1.0

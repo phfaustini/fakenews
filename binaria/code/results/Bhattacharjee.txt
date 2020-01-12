@@ -1,0 +1,80 @@
+FEATURES + GAUSSIANNB
+Fscore (fake) = 39.67% ± 7.17%
+Accuracy =      60.66% ± 2.23%
+Best params:    {}
+------------------------------------------------------
+FEATURES + KNN
+Fscore (fake) = 67.31% ± 1.28%
+Accuracy =      70.24% ± 0.88%
+Best params:    {'clf__n_neighbors': 7}
+------------------------------------------------------
+FEATURES + SVC
+Fscore (fake) = 73.64% ± 0.93%
+Accuracy =      74.89% ± 1.03%
+Best params:    {'clf__gamma': 'auto', 'clf__kernel': 'rbf'}
+------------------------------------------------------
+FEATURES + RF
+Fscore (fake) = 75.59% ± 1.04%
+Accuracy =      76.05% ± 1.04%
+Best params:    {'clf__n_estimators': 851}
+------------------------------------------------------
+WORD2VEC + GAUSSIANNB
+Fscore (fake) = 67.64% ± 1.84%
+Accuracy =      69.27% ± 1.13%
+Best params:    {}
+------------------------------------------------------
+WORD2VEC + KNN
+Fscore (fake) = 81.57% ± 0.84%
+Accuracy =      81.96% ± 0.99%
+Best params:    {'clf__n_neighbors': 7}
+------------------------------------------------------
+WORD2VEC + SVC
+Fscore (fake) = 88.59% ± 0.82%
+Accuracy =      88.38% ± 0.78%
+Best params:    {'clf__gamma': 'auto', 'clf__kernel': 'linear'}
+------------------------------------------------------
+WORD2VEC + RF
+Fscore (fake) = 83.83% ± 0.56%
+Accuracy =      83.58% ± 0.63%
+Best params:    {'clf__n_estimators': 401}
+------------------------------------------------------
+DCDISTANCE + GAUSSIANNB
+Fscore (fake) = 63.43% ± 0.60%
+Accuracy =      67.22% ± 0.36%
+Best params:    {}
+------------------------------------------------------
+DCDISTANCE + KNN
+Fscore (fake) = 84.75% ± 0.72%
+Accuracy =      84.82% ± 0.83%
+Best params:    {'clf__n_neighbors': 7}
+------------------------------------------------------
+DCDISTANCE + SVC
+Fscore (fake) = 77.68% ± 0.93%
+Accuracy =      77.18% ± 1.25%
+Best params:    {'clf__gamma': 'auto', 'clf__kernel': 'linear'}
+------------------------------------------------------
+DCDISTANCE + RF
+Fscore (fake) = 83.84% ± 1.19%
+Accuracy =      83.97% ± 1.32%
+Best params:    {'clf__n_estimators': 251}
+------------------------------------------------------
+BOW + MultinomialNB
+Fscore (fake) = 75.75% ± 1.14%
+Accuracy =      80.23% ± 0.84%
+Best params:    {}
+------------------------------------------------------
+BOW + KNN
+Fscore (fake) = 79.32% ± 2.13%
+Accuracy =      81.50% ± 1.46%
+Best params:    {'clf__n_neighbors': 1}
+------------------------------------------------------
+BOW + SVC
+Fscore (fake) = 94.05% ± 0.59%
+Accuracy =      93.97% ± 0.60%
+Best params:    {'clf__gamma': 'auto', 'clf__kernel': 'linear'}
+------------------------------------------------------
+BOW + RF
+Fscore (fake) = 89.70% ± 0.50%
+Accuracy =      89.60% ± 0.61%
+Best params:    {'clf__n_estimators': 901}
+------------------------------------------------------

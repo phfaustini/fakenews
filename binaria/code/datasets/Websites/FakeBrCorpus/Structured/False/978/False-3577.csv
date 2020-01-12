@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.03,0.0,0.0,0.0,7.5,0.05,0.05,0.2,0.0,15,-1.0,2.0,98.0,0.5290311574935913,"Sertanejo que vendeu 11 milhões de discos passa por dificuldades : ""Minha mãe tem me ajudado"". .  ",0.0

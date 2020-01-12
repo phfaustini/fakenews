@@ -1,0 +1,325 @@
+##############
+##############
+DATASET btv-lifestyle
+
+**************
+NBPC
+**************
+BOW: 
+Accuracy  = 50% ±1%
+Precision = 50% ±1%
+Recall    = 100% ±0%
+FScore    = 67% ±1%
+
+**************
+DCDistanceOCC
+**************
+BOW: 
+Accuracy  = 52% ±4%
+Precision = 51% ±3%
+Recall    = 97% ±6%
+FScore    = 67% ±2%
+t: 0.86
+
+**************
+ECOOCC
+**************
+BOW: 
+Accuracy  = 51% ±3%
+Precision = 51% ±2%
+Recall    = 99% ±3%
+FScore    = 67% ±2%
+
+**************
+OneClassSVM
+**************
+BOW: 
+Accuracy  = 58% ±10%
+Precision = 56% ±6%
+Recall    = 91% ±9%
+FScore    = 69% ±6%
+Kernel: 2
+Degree: 3
+Nu: 0.760000
+
+**************
+EIF
+**************
+BOW: 
+Accuracy  = 50% ±1%
+Precision = 50% ±1%
+Recall    = 100% ±0%
+FScore    = 67% ±1%
+Average depth: 5
+n_trees: 256
+sample_size: 30
+extension level: 13
+##############
+##############
+DATASET whats_br
+
+**************
+NBPC
+**************
+BOW: 
+Accuracy  = 53% ±1%
+Precision = 53% ±1%
+Recall    = 100% ±0%
+FScore    = 70% ±1%
+
+**************
+DCDistanceOCC
+**************
+BOW: 
+Accuracy  = 53% ±1%
+Precision = 53% ±1%
+Recall    = 100% ±0%
+FScore    = 70% ±1%
+t: 0.96
+
+**************
+ECOOCC
+**************
+BOW: 
+Accuracy  = 61% ±7%
+Precision = 60% ±4%
+Recall    = 79% ±14%
+FScore    = 68% ±8%
+
+**************
+OneClassSVM
+**************
+BOW: 
+Accuracy  = 52% ±2%
+Precision = 53% ±1%
+Recall    = 97% ±5%
+FScore    = 68% ±2%
+Kernel: 3
+Degree: 3
+Nu: 0.560000
+
+**************
+EIF
+**************
+BOW: 
+Accuracy  = 53% ±1%
+Precision = 53% ±1%
+Recall    = 100% ±0%
+FScore    = 70% ±1%
+Average depth: 5
+n_trees: 256
+sample_size: 30
+extension level: 13
+##############
+##############
+DATASET fakenewsdata1
+
+**************
+NBPC
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+**************
+DCDistanceOCC
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+t: 0.96
+
+**************
+ECOOCC
+**************
+BOW: 
+Accuracy  = 41% ±11%
+Precision = 39% ±13%
+Recall    = 39% ±17%
+FScore    = 38% ±14%
+
+**************
+OneClassSVM
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+Kernel: 3
+Degree: 3
+Nu: 0.810000
+
+**************
+EIF
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+Average depth: 5
+n_trees: 256
+sample_size: 30
+extension level: 13
+##############
+##############
+DATASET Bhattacharjee
+
+**************
+NBPC
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+
+**************
+DCDistanceOCC
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+t: 0.96
+
+**************
+ECOOCC
+**************
+BOW: 
+Accuracy  = 49% ±1%
+Precision = 49% ±0%
+Recall    = 91% ±2%
+FScore    = 64% ±1%
+
+**************
+OneClassSVM
+**************
+BOW: 
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in call to systemCannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+Error: Cannot allocate memory
+ERROR: Failed in

@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.05,0.0,0.0,0.0,7.5,0.14,0.04,0.16,0.0,39,-0.3333333333333333,6.0,276.0,0.758802592754364,"Temer vira piada no noticiário mundial e recebe o apelido de ""Presidente Poltergeist"". .  O motivo? Ele não conseguia dormir. Disse que havia coisas estranhas e uma péssima energia no local. O Diário do Brasil acha que o ""Fantasma da Lava-Jato"" está perseguindo o presidente. ",0.0

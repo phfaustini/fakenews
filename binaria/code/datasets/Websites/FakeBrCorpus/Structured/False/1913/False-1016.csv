@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.04,0.0,0.0,0.0,7.29,0.0,0.01,0.19,0.02,38,-0.6,7.0,291.0,0.7509726881980896,"A carta de demissão de Geddel: ""Avolumaram-se as críticas sobre mim. Cheguei no limite da dor"". .  ""Avolumaram-se as críticas sobre mim. Em Salvador,  vejo o sofrimento dos meus familiares. Quem me conhece sabe ser esse o limite da dor que suporto. É hora de sair"",  escreveu o ex-ministro. ",0.0

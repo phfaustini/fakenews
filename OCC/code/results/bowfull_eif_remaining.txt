@@ -1,0 +1,54 @@
+##############
+##############
+DATASET FakeBrCorpus
+
+**************
+NBPC
+**************
+**************
+DCDistanceOCC
+**************
+**************
+
+**************
+OneClassSVM
+**************
+**************
+EIF
+**************
+BOW: 
+Accuracy  = 50% ±0%
+Precision = 50% ±0%
+Recall    = 100% ±0%
+FScore    = 67% ±0%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13
+##############
+##############
+DATASET tweets_br
+
+**************
+NBPC
+**************
+**************
+DCDistanceOCC
+**************
+**************
+
+**************
+OneClassSVM
+**************
+**************
+EIF
+**************
+BOW: 
+Accuracy  = 51% ±0%
+Precision = 10% ±21%
+Recall    = 4% ±7%
+FScore    = 5% ±11%
+Average depth: 8
+n_trees: 256
+sample_size: 200
+extension level: 13

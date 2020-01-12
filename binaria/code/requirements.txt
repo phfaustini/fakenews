@@ -1,0 +1,22 @@
+orange3  # pip install orange3
+mlxtend>=0.12.0  # Plotting decision frontier, pip install mlxtend
+nltk  # nltk.download('universal_tagset')
+graphviz  # sudo apt-get install graphviz
+dvipng  # sudo apt-get install dvipng
+polyglot  # pip install polyglot
+libicu-dev  # sudo apt-get install python-numpy libicu-dev
+gensim  # pip install gensim
+stop-words  # pip install stop-words
+pycld2  # pip install pycld2
+pyicu  # pip install pyicu
+morfessor  # pip install morfessor
+hunspell  # pip install hunspell
+# polyglot download sentiment2.en
+# polyglot download sentiment2.pt
+# polyglot download sentiment2.bg
+# polyglot download embeddings2.bg
+# polyglot download embeddings2.pt
+# polyglot download embeddings2.en
+# polyglot download pos2.bg
+# polyglot download pos2.pt
+# polyglot download pos2.en

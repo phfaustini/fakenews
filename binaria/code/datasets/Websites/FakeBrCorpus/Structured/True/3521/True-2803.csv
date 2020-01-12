@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.02,0.0,0.0,0.0,10.5,0.04,0.04,0.3,0.0,20,0.0,2.0,136.0,0.42692145705223083,"Bovespa fecha em alta nesta quinta, com exterior mais calmo. Depois de fechar a quarta-feira (28) com relativa estabilidade, indicador  ",1.0

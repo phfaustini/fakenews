@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.05,0.0,0.0,0.0,23.0,0.0,0.06,0.19,0.0,33,-0.4,2.0,294.0,0.18691538274288177,"Mais de 100 mototaxistas foram autuados por bloquearem a Estrada Lagoa-Barra em manifestação . Protesto seria pela paz na Rocinha, mas tinha objetivo de despistar forças de segurança, diz Polícia Civil.. Mais de 100 mototaxistas que participaram de protesto na Estrada Lagoa-Barra, que liga a  ",1.0

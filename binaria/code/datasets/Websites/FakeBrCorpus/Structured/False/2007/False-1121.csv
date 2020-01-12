@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.02,0.01,1.0,0.0,9.5,0.11,0.12,0.2,0.0,44,-0.7777777777777778,6.0,314.0,1.033031940460205,"Pequenina,  fofa e brava! Bebê de 5 meses tem ataque de ciúmes quando seus pais se beijam.  Uma linda bebê de apenas 5 meses está encantando a internet.  Quando ela vê seus pais se beijando,  ela dispara um ataque de choro! A pequenina fica feliz novamente quando as atenções se voltam para ela! Não é uma fofura? ",0.0

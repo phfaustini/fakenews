@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.03,0.0,0.0,0.0,9.0,0.1,0.05,0.15,0.0,18,-0.3333333333333333,2.0,101.0,0.302331805229187,Coreia do Norte lança mais um míssil balístico e avisa que haverá outros durante o fim de semana. .  ,0.0

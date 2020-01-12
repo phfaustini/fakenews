@@ -1,0 +1,2 @@
+uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
+0.02,0.0,0.0,0.0,15.0,0.05,0.03,0.3,0.06,24,-1.0,2.0,198.0,0.3093104064464569,"Site hospedado na Hungria vaza telefone fixo, endereço, celular e até email de brasileiros.  O site informa endereço, telefones (incluindo celulares) e, em alguns casos, até e-mail de brasileiros.  ",0.0
