@@ -1,2 +1,0 @@
-uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
-0.05,0.0,0.0,0.0,19.5,0.06,0.0,0.3,0.0,30,-0.6666666666666666,2.0,231.0,0.06059963256120682,"Prefeitura de Maringá abre licitação para compra de armas de fogo para a Guarda Municipal. Edital para a aquisição de 14 espingardas calibre 12 foi aberto na segunda-feira (18).. A Prefeitura de Maringá, no norte do Paraná, abriu  ",1.0

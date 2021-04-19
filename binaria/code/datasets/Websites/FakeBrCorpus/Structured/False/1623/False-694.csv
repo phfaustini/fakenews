@@ -1,2 +1,0 @@
-uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
-0.11,0.0,0.0,0.0,9.0,0.07,0.0,0.13,0.0,9,0,1.0,55.0,0.2673731744289398,"""Senhor X"" é transferido para o ""Xilindró"" Bangu 9. .  ",0.0

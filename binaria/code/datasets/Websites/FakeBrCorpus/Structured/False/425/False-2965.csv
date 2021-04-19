@@ -1,2 +1,0 @@
-uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
-0.05,0.0,0.0,0.0,12.67,0.09,0.02,0.24,0.0,35,-1.0,3.0,214.0,0.37084686756134033,"Homem vai ao banco pagar indenização por injúria racial e xinga funcionário de ""macaco"". .  O caso aconteceu no interior de SP, na cidade de São José do Rio Preto, localizada a cerca de 442 km da capital paulista. ",0.0

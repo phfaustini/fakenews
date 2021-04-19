@@ -1,2 +1,0 @@
-uppercase,exclamation,has_exclamation,question,words_per_sentence,adj,adv,noun,spell_errors,lexical_size,polarity,number_sentences,len_text,word2vec,Text,label
-0.06,0.0,0.0,0.0,19.33,0.04,0.05,0.15,0.0,46,0.5,3.0,319.0,0.9494977593421936,"Hillary Clinton’s victory speech in Nevada on Saturday was a lot more about “we” than “I.” In the past, Mrs. Clinton has talked a lot about herself: How she is qualified for the job. How her approach is best. Her rival, Sen. Bernie Sanders, by contrast, has long talked about his quest for a political revolution as […]",1.0
